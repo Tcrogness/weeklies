@@ -1,0 +1,15 @@
+C:\Staging\PO-weeklies\bin\Debug\net6.0\PO-weeklies.exe
+C:\Staging\PO-weeklies\bin\Debug\net6.0\PO-weeklies.deps.json
+C:\Staging\PO-weeklies\bin\Debug\net6.0\PO-weeklies.runtimeconfig.json
+C:\Staging\PO-weeklies\bin\Debug\net6.0\PO-weeklies.dll
+C:\Staging\PO-weeklies\bin\Debug\net6.0\PO-weeklies.pdb
+C:\Staging\PO-weeklies\obj\Debug\net6.0\PO-weeklies.csproj.AssemblyReference.cache
+C:\Staging\PO-weeklies\obj\Debug\net6.0\PO-weeklies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Staging\PO-weeklies\obj\Debug\net6.0\PO-weeklies.AssemblyInfoInputs.cache
+C:\Staging\PO-weeklies\obj\Debug\net6.0\PO-weeklies.AssemblyInfo.cs
+C:\Staging\PO-weeklies\obj\Debug\net6.0\PO-weeklies.csproj.CoreCompileInputs.cache
+C:\Staging\PO-weeklies\obj\Debug\net6.0\PO-weeklies.dll
+C:\Staging\PO-weeklies\obj\Debug\net6.0\refint\PO-weeklies.dll
+C:\Staging\PO-weeklies\obj\Debug\net6.0\PO-weeklies.pdb
+C:\Staging\PO-weeklies\obj\Debug\net6.0\PO-weeklies.genruntimeconfig.cache
+C:\Staging\PO-weeklies\obj\Debug\net6.0\ref\PO-weeklies.dll
