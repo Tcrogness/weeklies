@@ -1,0 +1,15 @@
+C:\Staging\PO-weeklies\wk2\week2\bin\Debug\net6.0\week2.exe
+C:\Staging\PO-weeklies\wk2\week2\bin\Debug\net6.0\week2.deps.json
+C:\Staging\PO-weeklies\wk2\week2\bin\Debug\net6.0\week2.runtimeconfig.json
+C:\Staging\PO-weeklies\wk2\week2\bin\Debug\net6.0\week2.dll
+C:\Staging\PO-weeklies\wk2\week2\bin\Debug\net6.0\week2.pdb
+C:\Staging\PO-weeklies\wk2\week2\obj\Debug\net6.0\week2.csproj.AssemblyReference.cache
+C:\Staging\PO-weeklies\wk2\week2\obj\Debug\net6.0\week2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Staging\PO-weeklies\wk2\week2\obj\Debug\net6.0\week2.AssemblyInfoInputs.cache
+C:\Staging\PO-weeklies\wk2\week2\obj\Debug\net6.0\week2.AssemblyInfo.cs
+C:\Staging\PO-weeklies\wk2\week2\obj\Debug\net6.0\week2.csproj.CoreCompileInputs.cache
+C:\Staging\PO-weeklies\wk2\week2\obj\Debug\net6.0\week2.dll
+C:\Staging\PO-weeklies\wk2\week2\obj\Debug\net6.0\refint\week2.dll
+C:\Staging\PO-weeklies\wk2\week2\obj\Debug\net6.0\week2.pdb
+C:\Staging\PO-weeklies\wk2\week2\obj\Debug\net6.0\week2.genruntimeconfig.cache
+C:\Staging\PO-weeklies\wk2\week2\obj\Debug\net6.0\ref\week2.dll

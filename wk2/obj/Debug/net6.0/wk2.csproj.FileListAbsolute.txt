@@ -1,0 +1,5 @@
+C:\Staging\PO-weeklies\wk2\obj\Debug\net6.0\wk2.csproj.AssemblyReference.cache
+C:\Staging\PO-weeklies\wk2\obj\Debug\net6.0\wk2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Staging\PO-weeklies\wk2\obj\Debug\net6.0\wk2.AssemblyInfoInputs.cache
+C:\Staging\PO-weeklies\wk2\obj\Debug\net6.0\wk2.AssemblyInfo.cs
+C:\Staging\PO-weeklies\wk2\obj\Debug\net6.0\wk2.csproj.CoreCompileInputs.cache
